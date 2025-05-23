@@ -35,7 +35,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 | ☑      | [Linux Fundamentals 1](https://tryhackme.com/room/linuxfundamentalspart1)     | Intro               |                                          |
 | ☑      | [Windows Fundamentals](https://tryhackme.com/module/windows-fundamentals)     | Intro               |                                          |
 | ☑      | [Red Team Fundamentals](https://tryhackme.com/room/redteamfundamentals)       | Intro               |                                          |
-| ☐      | [Tmux](https://tryhackme.com/room/rptmux)                                     | Tooling             |                                          |
+| ☑      | [Tmux](https://tryhackme.com/room/rptmux)                                     | Tooling             |                                          |
 | ☐      | [Nmap](https://tryhackme.com/room/furthernmap)                                | Tooling             |                                          |
 | ☐      | [Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)        | Tooling             |                                          |
 | ☐      | [Hydra](https://tryhackme.com/room/hydra)                                     | Tooling             |                                          |
